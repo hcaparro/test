@@ -4,7 +4,6 @@
         <entry key="LastDescribed" value="1612393351550"/>
         <entry key="tool" value="editor"/>
     </properties>
-    <extendedProperties _jt="HashMap" loadFactor="0.75" threshold="0"/>
     <nlsValues _jt="HashMap" loadFactor="0.75" threshold="12">
         <entry>
             <key _jt="string" value="en_US"/>
