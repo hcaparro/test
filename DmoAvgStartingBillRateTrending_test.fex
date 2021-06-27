@@ -1,0 +1,15 @@
+-SET &&UID='X';
+
+-INCLUDE IBFS:/WFC/Repository/ags_bi/Dashboard_Files/Common_Files/IncludeSetDefaults.fex
+
+-INCLUDE IBFS:/WFC/Repository/ags_bi/Dashboard_Files/Common_Files/IncludeSQLTrace.fex
+
+TABLE FILE CAR
+PRINT *
+END
+
+
+
+
+
+
